@@ -1,0 +1,8 @@
+[
+    {
+      "oldLibrary": "com.azure:azure-storage-blob:12.29.0",
+      "newLibrary": "",
+      "clientMappings": {
+      }
+    }
+]
